@@ -1,2 +1,1 @@
-# bookbot
-learning git through Boot.dev
+BookBot is my first project!
